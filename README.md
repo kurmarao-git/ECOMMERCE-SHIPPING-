@@ -1,2 +1,10 @@
-# ECOMMERCE-SHIPPING-
- A simple **Shopping Cart System** built in Java that demonstrates **OOP concepts** like **abstraction, inheritance, interfaces, and polymorphism**. This project simulates a shopping cart where users can add products, apply discounts, and make payments.
+Java Application
+======================
+This is a simple Java application. This application serves as a basic template for a console application using Java.
+
+# How to run?
+Open the terminal run run the following command to run the Java program 
+
+```sh
+java Main.java
+```
